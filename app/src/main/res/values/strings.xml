@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GitHub Search</string>
+    <string name="nome_usuario">Nome do usuário</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="preference_file_key"></string>
+    <string name="error_response">O repositorio solicitado não foi encontrado.</string>
+    <string name="save_user">Usuario salvo com sucesso!</string>
+    <string name="error_requisicao_retrofit">Algo deu errado, por favor tente novamente mais tarde</string>
+</resources>
